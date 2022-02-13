@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @blnche
-- 👀 I’m interested in mobile app development, game making and web development.
+- 👀 I’m interested in mobile app development, game development and web development.
 - 🌱 I’m currently learning html, css and javascript.
 - 💞️ I’m looking to collaborate on website projects.
 - 📫 How to reach me : by email at peltierblanche@gmail.com.
