@@ -1,6 +1,6 @@
 Hi 👋 
-I’m Blanche,
-I’m interested in web development, mobile app development and game development. 
+I’m Blanche, <br>
+I’m interested in web development, mobile app development and game development. <br>
 I’m currently learning html, css and javascript.
 
 <!---
