@@ -1,7 +1,6 @@
 Hi 👋 
 I’m Blanche, <br>
-I’m interested in web, mobile app and game development. <br>
-I’m currently learning html, css and javascript.
+I’m interested in web, mobile app and game development. 
 
 <!---
 blnche/blnche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
